@@ -61,6 +61,9 @@ This detector monitors WiFi traffic in real-time and alerts you when it detects 
 
 ## 🚀 Quick Start Guide
 
+## Overall board setup video is here, ensure the cable you use allows data transfer and just google the driver shown as the link in the video doesn't work
+https://www.youtube.com/watch?v=tj2fwh989D8
+
 ### Step 1: Install Arduino IDE
 
 1. Download from [arduino.cc](https://www.arduino.cc/en/software)
