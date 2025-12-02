@@ -4,7 +4,7 @@
 
 A super cheap WiFi deauthentication attack detector that turns a $5-10 ESP8266 board into a real-time wireless security monitor. Detect jamming attempts, deauth attacks, and suspicious WiFi activity instantly.
 
-## 💰 Why This Project?
+## Why This Project?
 
 Professional WiFi security monitors cost $100-500+. This project does the same thing for **under $10** using readily available hardware. Perfect for:
 - Home network security monitoring
@@ -15,18 +15,16 @@ Professional WiFi security monitors cost $100-500+. This project does the same t
 
 ## 🛒 Hardware Required
 
-### Main Board (Choose One):
+### Main Board:
 - **[UNO+WiFi R3 ATmega328P+ESP8266](https://www.aliexpress.com/w/wholesale-uno-wifi-r3-atmega328p-esp8266.html)** - $8-12 (Recommended - what this code is designed for)
-- **[NodeMCU ESP8266](https://www.aliexpress.com/w/wholesale-nodemcu-esp8266.html)** - $3-5 (Budget option)
-- **[Wemos D1 Mini ESP8266](https://www.aliexpress.com/w/wholesale-wemos-d1-mini.html)** - $2-4 (Smallest option)
 
 ### Additional:
 - USB cable (Micro-USB or USB-C depending on board)
 - Computer with Arduino IDE
 
-**Total Cost: $5-15 depending on board choice**
+**Total Cost: $8-12**
 
-Compare this to professional WiFi security monitors like WiFi Pineapple ($99+) or Ubiquiti sensors ($179+)!
+Compare this to professional WiFi security monitors like WiFi Pineapple ($200+) or Ubiquiti sensors ($179+)!
 
 ## 🚨 What It Does
 
